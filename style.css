@@ -1,0 +1,54 @@
+html {
+    background-color: #a9d7d1;
+    font-family: 'Raleway', Helvetica, sans-serif;
+}
+
+main {
+    background-color: white;
+    display: block;
+    padding: 20px 5px 15px 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.butt {
+    text-align: center;
+}
+
+.submit {
+    border: 0;
+    color: white;
+    width: 92px;
+    height: 40px;
+    background-color: #59ace0;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.row {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.left {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+
+.right {
+    width: 45%;
+    display: inline-block;
+    text-align: left;
+}
+
+.p_title {
+    text-align: center;
+}
